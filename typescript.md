@@ -1,4 +1,6 @@
-URL: https://www.typescriptlang.org/docs/
+---
+url: https://www.typescriptlang.org/docs/
+---
 
 # Get Started
 - Handbook
