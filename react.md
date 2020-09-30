@@ -1,4 +1,6 @@
-URL: https://reactjs.org/docs/getting-started.html
+---
+url: https://reactjs.org/docs/getting-started.html
+---
 
 # Installation
 # Main Concepts
